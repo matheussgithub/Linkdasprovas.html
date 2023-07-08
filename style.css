@@ -30,6 +30,7 @@ body{
     height: 450px;
     margin:auto;
     border-radius: 0px 0px 8px 8px;
+    columns: 2;
 }
 a{
     color: white;
