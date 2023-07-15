@@ -1,5 +1,7 @@
 @charset "UTF-8";
 
+
+
 img{
     width:280px ;
     height:125px ;
@@ -11,12 +13,14 @@ h1{
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 5px;
-    width: 1031px;
-    height: 40px;
+    width:  950px;
+    height: 35px;
     margin:auto;
     margin-bottom: -50px;
     border-radius: 8px 8px 0px 0px;
     box-shadow: 5px 5px 5px #0000005b;
+    text-align: center;
+    
     
 }
 body{
@@ -34,23 +38,24 @@ body{
     
    
     background-color: #006634;
-    font-size: 20px ;
+    font-size: 18px ;
     padding: 10px;
-    width: 500px;
-    height: 450px;
+    width: 440px;
+    height: 420px;
     margin:-0px;
     border-radius: 0px 0px 0px 8px;
     list-style-position: inside;
     display: inline-flex;
     flex-direction: column;
     box-shadow: 5px 5px 5px #0000005b;
+    -ms-flex-item-align: center;
 }
 #links2{
     background-color: #006634;
-    font-size: 20px ;
+    font-size: 18px ;
     padding: 10px;
-    width: 500px;
-    height: 450px;
+    width: 480px;
+    height: 420px;
     margin-top:50px;
     margin-left: -4px;
     border-radius: 0px 0px 8px 0px;
